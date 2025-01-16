@@ -34,12 +34,12 @@ Here are the types of animals at the zoo, along with their names:
 
 1. Create an `index.html` file.
 2. Set the `doctype` to `html`.
-3. Set the `html` language to `en`.
-4. Add a `head` and a `body`.
-5. In the `head`, set the `title` of the web page to `Fullstack Zoo`.
-6. Add a `main` element to the `body`.
-7. Add an `h1` to the main with the text `Welcome to Fullstack Zoo`.
-8. Underneath the `h1`, add a `section` for each type of animal. Each section should contain:
+3. Set the `<html>` language to `en`.
+4. Add a `<head>` and a `<body>`.
+5. In the `<head>`, set the `<title>` of the web page to `Fullstack Zoo`.
+6. Add a `<main>` element to the `<body>`.
+7. Add an `<h1>` to the main with the text `Welcome to Fullstack Zoo`.
+8. Underneath the `<h1>`, add a `<section>` element for each type of animal. Each section should contain:
    1. a corresponding heading
    2. an unordered list of the animal names
    3. an image with alt text
